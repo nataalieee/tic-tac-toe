@@ -92,8 +92,4 @@ A pre-compiled build is included in `x64/Debug/`:
 1. Navigate into `x64/Debug/`.
 2. Double-click `X SI 0.exe` to play immediately without building.
 
----
 
-## 👩‍💻 Author
-
-Developed by [@nataalieee](https://github.com/nataalieee).
